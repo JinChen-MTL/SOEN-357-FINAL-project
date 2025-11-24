@@ -1,0 +1,5 @@
+/lexiloop-backend/venv
+/lexiloop-react-extension/node_modules
+/lexiloop-react-extension/dist
+/lexiloop-react-extension/.env
+/lexiloop-backend/.env
